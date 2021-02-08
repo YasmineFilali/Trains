@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trains</string>
+    <string name="dest">Ville de déstination</string>
+    <string name="dep">Ville de départ</string>
+</resources>
